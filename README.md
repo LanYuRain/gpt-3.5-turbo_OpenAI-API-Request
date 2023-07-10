@@ -19,7 +19,7 @@
 ```
 > type: <class 'dict'>  
   
-`"finish_reaso"`: 根據官方文件說明如下：  
+`"finish_reason"`: 根據官方文件說明如下：  
   
 Every response will include a finish_reason. The possible values for finish_reason are:  
   
